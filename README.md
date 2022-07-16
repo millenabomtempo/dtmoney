@@ -1,5 +1,5 @@
 # dtmoney
-![Capa](https://user-images.githubusercontent.com/47898033/179364021-897dc5c6-c732-412d-b5f0-195043d41cae.png)
+<img width="1440" alt="Home" src="https://user-images.githubusercontent.com/47898033/179366778-93cb2f59-6d05-444a-8f3b-8a53fdd28bbd.png">
 
 ![Badge](https://img.shields.io/badge/since-2021-blue?style=flat-square)
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
