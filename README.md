@@ -17,8 +17,7 @@ App created at Rocketseat's Ignite course.
 
 ## :art: Layout
 
-The application layout is available on Figma:
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+<a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1">
   <img alt="Made by Millena Bomtempo" src="https://img.shields.io/badge/layout-figma-green?style=flat-square">
 </a>
 
